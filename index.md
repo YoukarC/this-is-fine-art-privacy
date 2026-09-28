@@ -21,7 +21,7 @@ Everything is computed on the watch: the watch face has no network access, no ac
 - Time, date, and the watch's language and unit settings.
 - Heart rate, steps, stress score, Body Battery, battery level, notification count and whether Do Not Disturb is on.
 - The current weather and the approximate location of the weather report, only to compute sunrise and sunset times.
-- Your sleep hours and the end time of your last activity, from your Garmin user profile.
+- Your sleep hours, and the end time and type (swimming or other sport) of your last activity, from your Garmin user profile.
 
 ### What happens to this data
 It is used only to choose the painting and to display values on the screen. It is not kept beyond the current screen and it is never sent anywhere.
@@ -43,7 +43,7 @@ Tout est calculé sur la montre : le cadran n'a ni accès réseau, ni compte, ni
 - L'heure, la date, la langue et les unités réglées sur la montre.
 - La fréquence cardiaque, les pas, le score de stress, la Body Battery, la batterie, le nombre de notifications et l'état du mode Ne pas déranger.
 - La météo et la position approximative du bulletin météo, uniquement pour calculer le lever et le coucher du soleil.
-- Tes heures de sommeil et l'heure de fin de ta dernière activité, depuis ton profil Garmin.
+- Tes heures de sommeil, ainsi que l'heure de fin et le type (natation ou autre sport) de ta dernière activité, depuis ton profil Garmin.
 
 ### Ce que deviennent ces données
 Elles servent uniquement à choisir le tableau et à afficher les valeurs à l'écran. Elles ne sont pas conservées au-delà de l'écran en cours et ne sont jamais envoyées.
